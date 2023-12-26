@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Oswald-VariableFont_wght';
+  src: url(oswald-font/Oswald-VariableFont_wght.eot) format('embedded-opentype'),
+       url(oswald-font/Oswald-VariableFont_wght.woff) format('woff'),
+       url(oswald-font/Oswald-VariableFont_wght.svg) format('svg'),
+       url(oswald-font/Oswald-VariableFont_wght.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PlayfairDisplay-VariableFont_wght';
+  src: url(playfiar-display-font/PlayfairDisplay-VariableFont_wght.eot) format('embedded-opentype'),
+       url(playfiar-display-font/PlayfairDisplay-VariableFont_wght.ttf) format('truetype'),
+       url(playfiar-display-font/PlayfairDisplay-VariableFont_wght.woff) format('woff'),
+       url(playfiar-display-font/PlayfairDisplay-VariableFont_wght.svg) format('svg');
+}
+@font-face {
+  font-family: 'Poppins-ExtraBold';
+  src: url(poppins-font/Poppins-ExtraBold.eot) format('embedded-opentype'),
+       url(poppins-font/Poppins-ExtraBold.svg) format('svg'),
+       url(poppins-font/Poppins-ExtraBold.ttf) format('truetype'),
+       url(poppins-font/Poppins-ExtraBold.woff) format('woff');
+}
+@font-face {
+  font-family: 'StyleScript-Regular';
+  src: url(style-script-font/StyleScript-Regular.eot) format('embedded-opentype'),
+       url(style-script-font/StyleScript-Regular.svg) format('svg'),
+       url(style-script-font/StyleScript-Regular.ttf) format('truetype'),
+       url(style-script-font/StyleScript-Regular.woff) format('woff');
+}
+@font-face {
+  font-family: 'BebasNeue-Regular';
+  src: url(bebas-neue-font/BebasNeue-Regular.eot) format('embedded-opentype'),
+       url(bebas-neue-font/BebasNeue-Regular.ttf) format('truetype'),
+       url(bebas-neue-font/BebasNeue-Regular.woff) format('woff'),
+       url(bebas-neue-font/BebasNeue-Regular.svg) format('svg');
+}

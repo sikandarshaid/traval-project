@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'StyleScript-Regular';
+  src: url(./StyleScript-Regular.eot);
+  src: url(./StyleScript-Regular.eot?#iefix) format('embedded-opentype'),
+       url(./StyleScript-Regular.svg#StyleScript-Regular) format('svg'),
+       url(./StyleScript-Regular.ttf) format('truetype'),
+       url(./StyleScript-Regular.woff) format('woff');
+}
